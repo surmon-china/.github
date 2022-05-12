@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: 🤚 Discord Chat
     url: https://discord.surmon.me
-    about: Ask questions and discuss with other users in real time.
+    about: Ask questions and discuss with other users in real time
   - name: ❤️‍🔥 Sponsor
     url: https://github.com/sponsors/surmon-china
-    about: Please consider supporting me via GitHub Sponsors.
+    about: Please consider supporting me via GitHub Sponsors
