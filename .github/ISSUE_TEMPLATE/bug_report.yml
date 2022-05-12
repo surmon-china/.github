@@ -1,5 +1,5 @@
 name: 🐞 Bug report
-description: Report an issue
+description: Create a report to help us improve
 labels: [pending triage]
 body:
   - type: markdown
